@@ -4,7 +4,8 @@ Originally from 🇻🇳 Hanoi, Vietnam, currently @Minerva University
 Visit [my website](https://sherlockieee.netlify.app/) for more information + follow my blog :)
 
 [Contact me](mailto:phuonghatrannguyen00@gmail.com) to talk about:
-- 🌱 Enhanced weathering & climate tech 
+- 🕸️ Climate x Web3
+- 🌱 Enhanced weathering & other carbon removal tech
 - 🧰 Tools for thoughts & personal knowledge management 
 - 👩‍💻 Building & managing complex and powerful web applications 
 - 🧑‍ How to be a better person in an ever-changing, complex world
