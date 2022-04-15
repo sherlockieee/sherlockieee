@@ -1,5 +1,5 @@
 # Hi, I'm Ha :)
-Originally from 🇻🇳 Hanoi, Vietnam, currently @Minerva University
+Originally from 🇻🇳 Hanoi, Vietnam, currently @ Robinhood / Minerva University
 
 Visit [my website](https://sherlockieee.netlify.app/) for more information + follow my blog :)
 
