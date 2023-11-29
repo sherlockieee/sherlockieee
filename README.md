@@ -1,9 +1,9 @@
 # Hi, I'm Ha :)
-Originally from 🇻🇳 Hanoi, Vietnam, currently in 🇺🇸 San Francisco
+Originally from 🇻🇳 Hanoi, Vietnam, currently in 🍎 NYC.
 
-Visit [my website](https://sherlockieee.netlify.app/) for more information + follow my blog :)
+Visit [my blog](https://hatran.substack.com/) for what i'm thinking about right now :)
 
-[Contact me](mailto:phuonghatrannguyen00@gmail.com) to talk about:
+[Please reach out](mailto:phuonghatrannguyen00@gmail.com) if you ever want to talk about:
 - 🕸️ Climate x Tech
 - 🌱 Enhanced weathering & generally carbon capture & storage
 - 👩‍💻 Building & managing complex and powerful web applications 
